@@ -22,7 +22,7 @@
 // #define KB_LAYOUT_QWERTY_ES         // Spain
 // #define KB_LAYOUT_QWERTY_INTL       // US (International)
 // #define KB_LAYOUT_QWERTY_IT         // Italy
-// #define KB_LAYOUT_QWERTY_LAFAYETTE  // France
+#define KB_LAYOUT_QWERTY_LAFAYETTE  // France
 // #define KB_LAYOUT_QWERTY_LATAM      // Latin America
 // #define KB_LAYOUT_QWERTY_LV         // Latvia (Programmers)
 // #define KB_LAYOUT_QWERTY_NO         // Norway
@@ -42,7 +42,7 @@
 // Uncomment one of the following lines if the host computer doen't run Windows.
 
 // #define MACOS
-// #define LINUX
+#define LINUX
 
 
 /******************************************************************************
@@ -104,7 +104,7 @@
 
 // Uncomment one of the following lines to pick your preferred hold-tap config.
 
-// #define HT_NONE
+#define HT_NONE
 // #define HT_THUMB_TAPS
 // #define HT_HOME_ROW_MODS  // (default behavior)
 // #define HT_TWO_THUMB_KEYS
